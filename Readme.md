@@ -10,3 +10,4 @@ Tema: Otomotif
    javac *.java
 3. Jalankan program dengan perintah:
    java Main
+![Uploading Screenshot 2026-11-07 211251.png…]()
